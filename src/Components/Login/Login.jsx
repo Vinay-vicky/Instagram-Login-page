@@ -12,7 +12,7 @@ const Login = () => {
         <button className="login-button">Log In</button>
         <p className="forgot-password">Forgot password?</p>
         <div className="signup-option">
-          <p>Don't have an account? <span className="signup-link">Sign up</span></p>
+          <p>Don't have an account? <br /> <span className="signup-link">Sign up</span></p>
         </div>
       </div>
     </div>

@@ -16,7 +16,7 @@ const Signup = () => {
         <input type="password" placeholder="Password" className="input-box" />
         <button className="signup-button">Sign Up</button>
         <div className="login-option">
-          <p>Have an account? <span className="login-link">Log in</span></p>
+          <p>Have an account? <br /> <span className="login-link">Log in</span></p>
         </div>
       </div>
     </div>
